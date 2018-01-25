@@ -2,6 +2,7 @@ print("My name is Lauren")
 print("My name is Marley")
 <<<<<<< HEAD
 print("My birthday is in June")
+print("My favorite food is popcorn")
 print("My name is Tammy")
 =======
 print("My name is Tammy")
